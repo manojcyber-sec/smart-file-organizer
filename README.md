@@ -24,3 +24,8 @@ Python, os module, shutil module
 ## Future Improvements
 - GUI version
 - Custom file rules
+
+## Sample Output
+<img width="811" height="267" alt="Screenshot 2026-02-06 212008" src="https://github.com/user-attachments/assets/7ccdec15-97e4-4dc9-8a7b-975658576d05" />
+
+
